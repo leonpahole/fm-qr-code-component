@@ -30,9 +30,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Remaining questions
 
-- [] What does display: block do on an image?
-- [] What are best practices for importing fonts?
-- [] Are width / height directly on img needeed for performance reasons?
+- [ ] What does display: block do on an image?
+- [ ] What are best practices for importing fonts?
+- [ ] Are width / height directly on img needeed for performance reasons?
 
 ## Author
 
